@@ -41,8 +41,8 @@ class Dashboard extends Component {
         return (
             <View style={styles.container}>
                 <Text
-                    style={styles.welcome}
-                    onPress={() => Actions.itemDetail()}
+                style={styles.welcome}
+                onPress={() => Actions.itemDetail()}
                 >
                     Dashboard Screen
                 </Text>
